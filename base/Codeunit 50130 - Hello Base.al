@@ -1,4 +1,4 @@
-codeunit 50130 "Hello Base"
+codeunit 80130 "Hello Base"
 {
     trigger OnRun()
     begin

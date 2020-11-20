@@ -1,29 +1,25 @@
 {
-    "id":  "00000000-0000-0000-0000-000000000003",
-    "name":  "Default Base App Name",
-    "publisher":  "Default Publisher",
-    "brief":  "",
-    "description":  "",
-    "version":  "2.0.0.0",
-    "privacyStatement":  "",
-    "EULA":  "",
-    "help":  "",
-    "url":  "",
-    "logo":  "",
-    "dependencies":  [
-
-                     ],
-    "screenshots":  [
-
-                    ],
-    "application":  "16.0.0.0",
-    "platform":  "16.0.0.0",
-    "idRanges":  [
-                     {
-                         "from":  50100,
-                         "to":  50149
-                     }
-                 ],
-    "showMyCode":  true,
-    "runtime":  "4.0"
+  "id": "cf81f907-1699-45b5-921e-a82753e6b7ee",
+  "name": "My Base App",
+  "publisher": "My Name",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "application": "16.0.0.0",
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 80100,
+      "to": 80149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "4.0"
 }

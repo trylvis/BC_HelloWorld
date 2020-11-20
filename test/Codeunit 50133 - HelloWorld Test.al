@@ -1,4 +1,4 @@
-codeunit 50133 "HelloWorld Test"
+codeunit 80133 "HelloWorld Test"
 {
     Subtype = Test;
 
